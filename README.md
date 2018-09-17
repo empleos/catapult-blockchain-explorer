@@ -1,4 +1,16 @@
-you need to start it in some webserver:
+Prerequisites:
+
+NEM 2 Catapult Server
+NEM 2 Catapult REST API
+
+Clone the repository to any folder:
+```
+#!bash
+git clone https://github.com/empleos/catapult-blockchain-explorer
+cd catapult-blockchain-explorer
+```
+
+To start a web server:
 
 * python 3.x:
 ```
