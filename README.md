@@ -1,4 +1,4 @@
-## Prerequisites:
+## Prerequisites
 
 NEM 2 Catapult Server  
 NEM 2 Catapult REST API  
@@ -12,7 +12,7 @@ git clone https://github.com/empleos/catapult-blockchain-explorer
 cd catapult-blockchain-explorer
 ```
 
-## To start a web server:
+## Starting web server
 
 * python 3.x:
 ```
