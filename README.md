@@ -1,8 +1,7 @@
 Prerequisites:
 
-NEM 2 Catapult Server
-
-NEM 2 Catapult REST API
+NEM 2 Catapult Server  
+NEM 2 Catapult REST API  
 
 Clone the repository to any folder:
 ```
